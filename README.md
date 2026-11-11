@@ -10,4 +10,26 @@ aim to deliver actionable insights to healthcare stakeholders for informed decis
 through rigorous data cleaning, transformation, exploration, and analysis. 
 
  ## 2. Dataset Description
+  1. Data Cleaning
+
+Data cleaning is the process of identifying and correcting missing values and inconsistencies in the dataset to improve data quality and accuracy
+
+2. Data Transformation
+
+Data transformation involves converting raw data into a structured and meaningful format for further analysis.
+
+ 3. Data Exploration, Analysis & Visualization
+
+Data exploration and analysis were performed to identify meaningful patterns, trends, and relationships within the healthcare dataset.
+
+ 4. Dashboard Creation
+
+An interactive dashboard was created in Microsoft Excel to present and summarize the key findings from the healthcare data analysis. 
+
+## 3.Data preprocessing
+
+
+
+
+
  
